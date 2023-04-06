@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@electricui/helpers": "0.9.4",
+    "csv": "^6.2.8",
     "source-map-support": "0.5.16",
     "usb": "2.4.3"
   },
